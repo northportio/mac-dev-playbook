@@ -7,7 +7,7 @@ configure_osx: true
 
 # Set to 'true' to configure the Dock via dockutil.
 configure_dock: true
-dockitems_remove: []
+dockitems_remove:
 - Launchpad
 - TV
 - Podcasts
@@ -20,7 +20,7 @@ dockitems_remove: []
 - Reminders
 - Music
 - News
-dockitems_persist: []
+dockitems_persist:
 - name: "Safari"
    path: "/Applications/Safari.app/"
    pos: 2
