@@ -152,6 +152,7 @@ mas_installed_apps:
   - { id: 1381004916, name: "Discovery (2.0.3)" }
   - { id: 877615577, name: "Serial (1.4.10)" }
   - { id: 1157491961, name: "PLIST Editor (1.31)" }
+  - { id: 442168834, name: "SiteSucker (4.4)" }
 mas_email: ""
 mas_password: ""
 
