@@ -24,6 +24,9 @@ dockitems_persist:
   - name: "Safari"
     path: "/Applications/Safari.app/"
     pos: 2
+    - name: ""
+    path: ""
+    pos: 3
   - name: "Notes"
     path: "/Applications/Notes.app/"
     pos: 4
